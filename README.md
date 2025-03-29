@@ -36,6 +36,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tirth9978&show_icons=true&theme=dark&count_private=true" alt="Tirth's GitHub Stats" />
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tirth9978&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 

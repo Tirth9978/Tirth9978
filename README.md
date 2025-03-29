@@ -10,7 +10,6 @@
 - 🕵️‍♂️ Exploring the world of **Cybersecurity and Ethical Hacking** using **Kali Linux**  
 - 📚 Currently mastering **Stacks, Bit Manipulation, and Advanced DSA Concepts**  
 - 💡 Passionate about **Software Development** and building innovative projects  
-- 🛠️ Designing a **Social Media Platform** inspired by Facebook with advanced ranking systems  
 
 ---
 

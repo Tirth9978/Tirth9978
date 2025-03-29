@@ -87,7 +87,7 @@
 ### 💬 **Let's Collaborate!**
 
 - 💡 Open to collaborating on **Software Development Projects, DSA Implementations, and Cybersecurity Research**
-- 📧 Reach out to me at **[tirthpatel9978@gmail.com](mailto:tirthppatel9978@gmail.com)**
+- 📧 Reach out to me at **[tirthppatel9978@gmail.com](mailto:tirthppatel9978@gmail.com)**
 
 ---
 

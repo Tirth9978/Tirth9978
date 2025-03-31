@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Tirth Patel</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast | 🔐 Cybersecurity Learner</h3>
+<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast </h3>
 
 ---
 

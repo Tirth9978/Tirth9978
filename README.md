@@ -101,3 +101,22 @@
 
 ---
 
+### 📈 **GitHub Streak & Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth9978&theme=dark" alt="Tirth's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tirth9978&theme=react-dark" alt="Tirth's Contribution Graph" />
+</p>
+
+---
+
+### ✨ **My GitHub Skyline Animation**
+<p align="center">
+  <a href="https://skyline.github.com/Tirth9978/2024" target="_blank">
+    <img src="https://skyline.github.com/Tirth9978/2024.svg" alt="Tirth Patel's GitHub Skyline" width="600" />
+  </a>
+</p>
+

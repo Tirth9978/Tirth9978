@@ -39,19 +39,6 @@
 </p>
 
 ---
-
-### 🌟 **Featured Projects**
-
-#### 🎮 [Tetris Game](https://github.com/Tirth9978/Tetris_Game)
-- Developed a terminal-based **Tetris Game** in C++ with dynamic matrix rotation.
-- Implemented **pause feature**, optimized UI, and added scoring mechanism.
-
-#### 🐍 [Snake Game](https://github.com/Tirth9978/Snake_Game)
-- Built a **Snake Game** in C++ with collision detection and UI enhancements.
-- Applied **ncurses** for smooth rendering and interactive experience.
-
-
----
 <!-- Animated header using Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=📬+Let's+Connect+on+Social+Media!" alt="Typing SVG">

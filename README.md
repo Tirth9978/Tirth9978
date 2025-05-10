@@ -59,17 +59,7 @@
 
 ---
 
-### 📈 **GitHub Streak & Contribution Graph**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth9978&theme=dark" alt="Tirth's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tirth9978&theme=react-dark" alt="Tirth's Contribution Graph" />
-</p>
-
----
 
 ### 🚀 **My Goals for 2025**
 

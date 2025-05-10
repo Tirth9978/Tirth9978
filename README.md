@@ -52,14 +52,29 @@
 
 
 ---
+### 📬 Connect with Me
 
-### 📢 **Connect with Me**
 
-<p align="left">
-<a href="https://www.linkedin.com/in/tirth-patel-34635832a/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" /></a>
-<a href="mailto:tirthpatel9978@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="gmail" /></a>
-<a href="https://www.github.com/Tirth9978" target="_blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="github" /></a>
+<!-- Animated header using Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=📬+Let's+Connect+on+Social+Media!" alt="Typing SVG">
 </p>
+
+<!-- Social Media Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/tirth9978/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:tirthpatelofficial@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/Tirth9978" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
+
+
+---
 
 ---
 

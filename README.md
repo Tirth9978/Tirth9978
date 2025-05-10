@@ -52,29 +52,23 @@
 
 
 ---
-### 📬 Connect with Me
-
-
 <!-- Animated header using Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=435&lines=📬+Let's+Connect+on+Social+Media!" alt="Typing SVG">
 </p>
 
-<!-- Social Media Badges -->
+<!-- Social Media Badges with Correct Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/tirth9978/" target="_blank">
+  <a href="https://www.linkedin.com/in/tirth-patel-34635832a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:tirthpatelofficial@gmail.com">
+  <a href="mailto:tirthppatel9978@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/Tirth9978" target="_blank">
+  <a href="https://github.com/Tirth9978/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
 </p>
-
-
----
 
 ---
 

@@ -101,12 +101,4 @@
 
 ---
 
-### 📈 **GitHub Streak & Contribution Graph**
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth9978&theme=dark" alt="Tirth's GitHub Streak" />
-</p>
-
----
-
 

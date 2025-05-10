@@ -13,31 +13,22 @@
 
 ---
 
-### 🏆 **Achievements & Highlights**
-
-- 💻 Developed a **Tetris Game** using C++ with optimized matrix rotation and UI  
-- 🧩 Built a **Snake Game** with collision detection and smooth gameplay  
-- 📚 Working on a **Kali Linux Guide** covering **VM Setup, Penetration Testing, and Ethical Hacking**   
-
+### 🧰 Tech Stack
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![OOPs](https://img.shields.io/badge/-OOPs-9C27B0?style=flat&logo=codeforces&logoColor=white)
 ---
 
-### 🔥 **Skills and Technologies**
-
-- **Languages:** C++, C, Python, SQL , Git 
-- **Data Structures & Algorithms:** Linked List , Stack , Queue , Trees 
-- **Tools & Platforms:** GitHub, VS Code 
-- **Cybersecurity:** Ethical Hacking, Penetration Testing, Network Security  
-- **Version Control:** Git, GitHub 
-
----
-
-### 📚 **My GitHub Stats**
-
+### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tirth9978&show_icons=true&theme=dark&count_private=true" alt="Tirth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tirth9978&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tirth9978&theme=tokyonight" width="45%" />
 </p>
-
-
 
 ---
 

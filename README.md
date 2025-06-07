@@ -11,8 +11,6 @@
 ### 👨‍💻 **About Me**
 
 - 🎓 B.Tech Student at **DA-IICT**, Gandhinagar  
-- 🧠 Diving into **Cybersecurity** with **Kali Linux**  
-- 🧮 Learning **Advanced DSA**, focusing on **Stacks** and **Bit Manipulation**  
 - 💡 Passionate about building creative & impactful **software projects**
 
 ---

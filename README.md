@@ -2,7 +2,7 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#fca311">Tirth Patel</span>!</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast 
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Tirth+Patel+)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 **About Me**

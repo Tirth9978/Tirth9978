@@ -2,7 +2,9 @@
 <h1 align="center">👋 Hi there, I'm <span style="color:#fca311">Tirth Patel</span>!</h1>
 <h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast 
 
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Tirth+Patel+" alt="Typing SVG" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tirth+Patel!;I+love+Coding+and+Cybersecurity;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</p>
 ---
 
 ### 👨‍💻 **About Me**

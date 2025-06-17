@@ -12,6 +12,8 @@
 - 💡 Passionate about building creative & impactful **software projects**
 
 ---
+### Total Profile Viewed 
+- ![Profile views](https://komarev.com/ghpvc/?username=Tirth9978&color=blue)
 
 ### 🧰 **Tech Stack**
 

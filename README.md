@@ -67,6 +67,9 @@
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tirth9978)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ### 🌐 **Connect With Me**
 

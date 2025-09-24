@@ -109,5 +109,6 @@
 </p>
 
 --- 
-![Hits](https://hits.sh/github.com/Tirth9978/YourRepo.svg?style=for-the-badge&label=Profile%20Views)
+![Profile Views](https://count.getloli.com/get/@YourGitHubUsername?theme=moebooru)
+
 

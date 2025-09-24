@@ -109,4 +109,5 @@
 </p>
 
 --- 
-![Profile Views](https://hits.sh/github.com/Tirth9978.svg?label=❤️%20Profile%20Views&color=ff69b4)
+![Hits](https://hits.sh/github.com/Tirth9978/YourRepo.svg?style=for-the-badge&label=Profile%20Views)
+

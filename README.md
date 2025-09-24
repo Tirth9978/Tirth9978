@@ -110,6 +110,6 @@
 
 --- 
 ## Total Profile View
-![Profile Views](https://count.getloli.com/get/@YourGitHubUsername?theme=moebooru)
+![Profile Views](https://count.getloli.com/get/@Tirth9978?theme=moebooru)
 
 

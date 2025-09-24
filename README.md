@@ -107,3 +107,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
+
+--- 
+![Profile Views](https://hits.sh/github.com/Tirth9978.svg?label=❤️%20Profile%20Views&color=ff69b4)

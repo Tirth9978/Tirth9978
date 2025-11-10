@@ -140,18 +140,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
----
-### 🤖 AI Developer Workspace
-
-<p align="center">
-  <a href="http://www.youtube.com/@KALIMM-1" target="_blank">
-    <img src="https://raw.githubusercontent.com/<your-username>/<your-repo>/main/assets/ai-dev-workspace.png" alt="AI Developer workspace — coding, dual monitors, and AI visualizations" width="780"/>
-  </a>
-</p>
-
-<p align="center">
-  🔭 Building AI-powered web experiences • Frontend + ML experiments • Video edits on my channel — <a href="http://www.youtube.com/@KALIMM-1" target="_blank"><b>@KALIMM</b></a>
-</p>
 
 --- 
 ## Total Profile View

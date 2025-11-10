@@ -1,10 +1,20 @@
-<!-- Profile Header with Emojis and Centered Styling -->
-<h1 align="center">👋 Hi there, I'm <span style="color:#fca311">Tirth Patel</span>!</h1>
-<h3 align="center">🚀 Aspiring Software Developer | 💡 Tech Enthusiast 
+<!-- 🌟 Profile Header with Dynamic Typing and Clean Centered Layout -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#fca311;">Tirth Patel</span></h1>
+
+<h3 align="center">
+  🚀 Aspiring Software Developer | 🤖 AI/ML Enthusiast | 💡 Tech Explorer
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I+am+Tirth+Patel+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=FCA311&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Passionate+about+AI+and+Frontend+Development;Always+learning%2C+always+building+💻" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  🌍 From India &nbsp;|&nbsp; 💬 Let's talk about <b>AI, ML, and Web Dev</b>  
+</p>
+
 
 ### 👨‍💻 **About Me**
 

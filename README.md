@@ -15,11 +15,14 @@
   🌍 From India &nbsp;|&nbsp; 💬 Let's talk about <b>AI, ML, and Web Dev</b>  
 </p>
 
-
 ### 👨‍💻 **About Me**
 
-- 🎓 B.Tech Student at **DA-IICT**, Gandhinagar  
-- 💡 Passionate about building creative & impactful **software projects**
+- 🎓 Pursuing **B.Tech in Information and Communication Technology** at *DA-IICT, Gandhinagar*  
+- 💡 Passionate about crafting innovative and impactful **software solutions**  
+- 🤖 Exploring the fascinating world of **Artificial Intelligence & Machine Learning**  
+- 🌐 Love building interactive **frontend projects** with a creative touch  
+- ⚙️ Constantly learning, improving, and contributing to open-source  
+- 🌱 Currently diving deeper into **AI-driven web experiences**
 
 ---
 

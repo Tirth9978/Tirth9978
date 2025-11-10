@@ -27,6 +27,24 @@
 ---
 
 
+### 🎬 **My YouTube Channel**
+
+<p align="center">
+  <a href="http://www.youtube.com/@KALIMM-1" target="_blank">
+    <img src="https://img.shields.io/badge/Subscribe-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube Badge"/>
+  </a>
+</p>
+
+<p align="center">
+  🎥 I share creative projects, storytelling edits, and tech-inspired videos on my channel —  
+  blending **technology, emotion, and art** into every creation.  
+</p>
+
+<p align="center">
+  👉 Visit here: <a href="http://www.youtube.com/@KALIMM-1" target="_blank"><b>@KALIMM</b></a>
+</p>
+
+---
 ### 🧰 **Tech Stack**
 
 <p align="center">
